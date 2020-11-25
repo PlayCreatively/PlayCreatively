@@ -1,4 +1,4 @@
-### Hi there 👋
+[![PlayCreatively's github stats](https://github-readme-stats.vercel.app/api?username=PlayCreatively)](https://github.com/PlayCreatively/github-readme-stats)
 
 <!--
 **PlayCreatively/PlayCreatively** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
